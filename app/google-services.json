@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "240668366229",
+    "firebase_url": "https://kobdevchat.firebaseio.com",
+    "project_id": "kobdevchat",
+    "storage_bucket": "kobdevchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240668366229:android:542475c3c7ac2368bb129c",
+        "android_client_info": {
+          "package_name": "com.example.kobdevchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240668366229-p9r74o3f42o5kc7fmbgd0jucseqe8rf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcvAqx8X8vBWd_A3AKFukUEp_sEUU49yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240668366229-p9r74o3f42o5kc7fmbgd0jucseqe8rf3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
